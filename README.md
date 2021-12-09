@@ -1,5 +1,7 @@
 # Python101
 Uvodna skripta u Python
+# Uvod u programiranje
+
 Kada bi pisanim jezikom znali zadavati naredbe računalu, mogli bi mu
 naređivati da kontinuirano izvršava naše \"recepte\". Mogli bi
 automatizirati razne zadatke! To je programiranje: zadavanje naredbi
@@ -1056,3 +1058,4 @@ izbaciti.
     ograničenja
 
 [^11]: IDLE = IDE + Eric Idle
+
