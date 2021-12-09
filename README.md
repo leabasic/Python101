@@ -1,2 +1,2 @@
 # Python101
-Uvod u Python
+Uvodna skripta u Python
